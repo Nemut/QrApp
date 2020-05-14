@@ -1,6 +1,6 @@
-# qr_reader_app
+# QrApp
 
-A new Flutter project.
+App para la lectura de códigos QR tanto para android y IOs desarrollada en flutter
 
 ## Getting Started
 
