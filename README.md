@@ -15,3 +15,22 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # QrApp
+
+
+
+
+
+# QrApp - Flutter
+
+Aplicación de scaneo de códigos QR realizada con Flutter. Esta aplicación interpreta los QR que son coordenadas, urls o textos.
+
+La aplicación se compone de las siguientes características:
+
+- Los códigos se almacenan en el teléfono mediante sqlfile.
+- Las urls se abren automáticamente con el navegador por defecto del dispositivo.
+- Las coordenadas se muestran en un mapa en otra pantalla de la aplicación.
+- Uso de streams para manejar el flujo de información.
+
+## Capturas
+
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
