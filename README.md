@@ -10,6 +10,6 @@ La aplicación se compone de las siguientes características:
 - Uso de streams para manejar el flujo de información.
 
 ## Capturas
-Solarized dark             |  Solarized Ocean
+Listado de códigos qr             |  Coordenadas en Mapa
 :-------------------------:|:-------------------------:
 ![](https://github.com/Nemut/QrApp/blob/master/capturas/captura01-latlong.png)  |  ![](https://github.com/Nemut/QrApp/blob/master/capturas/captura03-map.png)
