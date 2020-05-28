@@ -1,6 +1,6 @@
 # QrApp - Flutter
 
-Aplicación de scaneo de códigos QR realizada con Flutter. Esta aplicación interpreta los QR que son coordenadas, urls o textos.
+Aplicación de scaneo de códigos QR realizada con Flutter. Esta aplicación interpreta los QR que son coordenadas, urls o textos. [Disponible en Google Play](https://play.google.com/store/apps/details?id=com.alexiscabreracantero.flutterqrapp)
 
 La aplicación se compone de las siguientes características:
 
